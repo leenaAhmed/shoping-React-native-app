@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "shopingapp",
-    "slug": "shopingapp",
+    "name": "ecommerce",
+    "slug": "ecommerce",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -29,6 +29,12 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": ""
+    "description": "",
+    "extra": {
+      "eas": {
+        "projectId": "d56985ae-77f6-41a6-8f94-c76d56bd8757"
+      }
+    },
+    "owner": "lueo"
   }
 }
